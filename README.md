@@ -1,0 +1,1 @@
+Built a program that spell-checked files by storing a dictionary in a hash table, that freed the allocated memory and finished in minimum time.
